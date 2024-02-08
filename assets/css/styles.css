@@ -78,7 +78,7 @@ section {
     text-align: center;
   }
 
-#course-content h2 {    
+h2 {    
     font-size: 2rem;
     color: #33A8DB;
     font-weight: bold;
@@ -122,5 +122,14 @@ section {
     text-transform: lowercase;
     max-width: 250px;
     text-shadow: 3px 2px #33A8DB;
+  }
+
+  #professional-challenges {
+    text-align: center;
+    width: 800px;
+  }
+
+  #professional-challenges img {
+    margin: 32px 0;
   }
  
